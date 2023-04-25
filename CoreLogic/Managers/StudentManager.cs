@@ -1,6 +1,6 @@
-using UPB.PracticeTwo.Models;
+using UPB.CoreLogic.Models;
 
-namespace UPB.PracticeTwo.Managers;
+namespace UPB.CoreLogic.Managers;
 
 public class StudentManager
 {
@@ -33,6 +33,7 @@ public class StudentManager
         {
             throw new Exception("no se encontro un estudiante");
         }
+
         studentFound.Name = "Cambiado";
 
         return studentFound;

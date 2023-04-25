@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using UPB.PracticeTwo.Managers;
-using UPB.PracticeTwo.Models;
+using UPB.CoreLogic.Managers;
+using UPB.CoreLogic.Models;
 
 namespace UPB.PracticeTwo.Controllers;
 

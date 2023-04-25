@@ -1,4 +1,4 @@
-namespace UPB.PracticeTwo.Models;
+namespace UPB.CoreLogic.Models;
 
 public class Student
 {
